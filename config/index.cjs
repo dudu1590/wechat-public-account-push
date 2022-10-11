@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oVsC45tQQxcaaJ9NZ7F4kVPrAEkw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Py3Quadax7QbSL2n9kgi7rkSCAw4bhSMEhhgQqWSAVQ',
+      useTemplateId: '	Nq9GkASQFKMzcauiCP4B0SpYZ_QAHJ3wfWDBb5-Drcc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-06',
       festivals: [
@@ -44,14 +44,14 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2020-08-06' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-10-12' },
+        { keyword: 'marry_day', date: '2022-10-10' },
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'Py3Quadax7QbSL2n9kgi7rkSCAw4bhSMEhhgQqWSAVQ',
+  CALLBACK_TEMPLATE_ID: '	Nq9GkASQFKMzcauiCP4B0SpYZ_QAHJ3wfWDBb5-Drcc',
 
   CALLBACK_USERS: [
     {
